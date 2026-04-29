@@ -1,5 +1,5 @@
 
-# 🎬 Netflix Movies & TV Shows Analytics Dashboard
+# 🍿 Netflix Movies & TV Shows Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
